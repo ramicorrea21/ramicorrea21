@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramiro Correa</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer at enia.io</h3>
 
-- 🌱 I’m currently learning **Machine Learing**
 
 - 👯 I’m looking to collaborate on **Real Software Projects**
 
