@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramiro Correa</h1>
-<h3 align="center">Full Stack Developer at enia.io</h3>
+<h3 align="center">Full Stack Developer at enia.io & chimi.co</h3>
 
 
-- 👯 I’m looking to collaborate on **Real Software Projects**
+- 💻 I work on AI-driven systems across diverse sectors including urban security, education, and finance, working with Python, Flask, Langchain, OpenAI APIs, and Pinecone. As part of development teams, I help create scalable applications, including in the Fintech space, using Ruby on Rails, AWS, and SQL with a strong emphasis on security.
 
-- 📫 How to reach me **ramicorrea021@gmail.com**
+- 📫 How to reach me **ramicorrea021@gmail.com**, **rcorrea@enia.io**, **ramiro@chimi.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
